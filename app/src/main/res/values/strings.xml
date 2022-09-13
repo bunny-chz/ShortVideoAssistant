@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">短视频辅助器</string>
+    <string name="hello">欢迎使用Bunny开发的自动化操作服务</string>
+    <string name="assist_description">点击按钮打开，辅助您刷短视频</string>
+    <string name="shortVideoAssist_label">短视频辅助器</string>
+    <string name="wakeUpTest">语音唤醒测试(测试完无错误，请重启软件)</string>
+    <string name="btn_start">开始识别</string>
+    <string name="btn_stop">停止识别</string>
+    <string name="btn_accessService">开启无障碍</string>
+    <string name="author">By Bunny</string>
+    <string name="version">Version 1.0.0</string>
+    <string name="tip">使用步骤：  必须先  进入抖音 → 打开本软件 → 授予权限 → 打开 “短视频辅助器” 无障碍服务 → （可选：允许后台运行） → 用指令刷短视频（不使用时请关闭本软件）</string>
+</resources>
