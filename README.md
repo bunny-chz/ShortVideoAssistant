@@ -18,3 +18,7 @@
 
 ![Video_20220914_012331_818](https://user-images.githubusercontent.com/57706599/190066354-7bcb078e-4eba-4666-b25c-0112a715b9b6.gif)
 
+
+![IMG_20220914_133015](https://user-images.githubusercontent.com/57706599/190067394-1d4a4a67-a9c2-4d20-86d7-94f3ee8c4502.jpg)
+
+
