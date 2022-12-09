@@ -28,7 +28,7 @@ targetSdk 32
 
 ![image](https://user-images.githubusercontent.com/57706599/194303365-231ef422-5d52-4fbc-b093-d3ce47acb0ee.png)
 
-因为需要授权ID和密钥授权，且SDK包已在仓库里面，所以直接说明如何获取百度语音的AppID,  API Key,  Secret Key，
+因为需要授权ID和密钥授权，且SDK包已在本项目源码里面，所以直接说明如何获取百度语音的AppID,  API Key,  Secret Key，
 
 
 
