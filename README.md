@@ -70,7 +70,7 @@ https://login.bce.baidu.com/?account=
 
 ![image](https://user-images.githubusercontent.com/57706599/194306907-723c28c1-6af9-449f-962b-56a14d7ca9a5.png)
 
-在获取到百度语音的AppID,  API Key,  Secret Key后,用Android Studio打开项目,填入信息到下图中core模块->AndroidManifest.xml->三个meta-data的value值
+在获取到百度语音的AppID,  API Key,  Secret Key后,下载本项目的源码，解压后，用Android Studio打开项目,填入信息到下图中core模块->AndroidManifest.xml->三个meta-data的value值
 
 ![image](https://user-images.githubusercontent.com/57706599/194301124-62e279ce-9126-44ec-824d-da502e0f337f.png)
 
