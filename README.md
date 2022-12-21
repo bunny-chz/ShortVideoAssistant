@@ -83,7 +83,7 @@ https://ai.baidu.com/tech/speech/wake#tech-demo
 
 ![image](https://user-images.githubusercontent.com/57706599/194304500-b325ede0-c772-403a-a81c-414bf4649f9c.png)
 
-完成修改后的唤醒词文件下载后导入到这里
+完成修改后的唤醒词文件下载后导入到这里，替换WakeUp.bin文件即可。
 
 -------------------------------------
 
